@@ -55,6 +55,7 @@ public class Batalla {
 			}
 			System.out.println(pInicial);
 			System.out.println(pFinal);
+			turno ++;
 			sc.nextLine();
 		}while(!combateAcabado);
 		
